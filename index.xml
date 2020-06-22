@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>來來往往</title>
-    <link>https://flyingns.github.io/myblog/</link>
+    <link>https://flyingns.github.io/</link>
     <description>Recent content on 來來往往</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Jun 2020 19:10:18 +0800</lastBuildDate>
     
-	<atom:link href="https://flyingns.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://flyingns.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testpub</title>
-      <link>https://flyingns.github.io/myblog/post/testpub/</link>
+      <link>https://flyingns.github.io/post/testpub/</link>
       <pubDate>Mon, 22 Jun 2020 19:10:18 +0800</pubDate>
       
-      <guid>https://flyingns.github.io/myblog/post/testpub/</guid>
+      <guid>https://flyingns.github.io/post/testpub/</guid>
       <description>&lt;p&gt;public test.&lt;/p&gt;
 &lt;p&gt;test&lt;/p&gt;
 &lt;p&gt;deploying updates to github&amp;hellip;&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Test</title>
-      <link>https://flyingns.github.io/myblog/post/test/</link>
+      <link>https://flyingns.github.io/post/test/</link>
       <pubDate>Mon, 22 Jun 2020 19:00:42 +0800</pubDate>
       
-      <guid>https://flyingns.github.io/myblog/post/test/</guid>
+      <guid>https://flyingns.github.io/post/test/</guid>
       <description>&lt;p&gt;test
 test&lt;/p&gt;
 &lt;h2 id=&#34;test&#34;&gt;test&lt;/h2&gt;
@@ -37,10 +37,10 @@ test&lt;/p&gt;
     
     <item>
       <title>My First Post</title>
-      <link>https://flyingns.github.io/myblog/post/my-first-post/</link>
+      <link>https://flyingns.github.io/post/my-first-post/</link>
       <pubDate>Mon, 22 Jun 2020 18:41:00 +0800</pubDate>
       
-      <guid>https://flyingns.github.io/myblog/post/my-first-post/</guid>
+      <guid>https://flyingns.github.io/post/my-first-post/</guid>
       <description></description>
     </item>
     
