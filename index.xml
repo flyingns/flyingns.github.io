@@ -6,9 +6,20 @@
     <description>Recent content on 來來往往</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2020 21:34:08 +0800</lastBuildDate>
     
 	<atom:link href="https://flyingns.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>yui</title>
+      <link>https://flyingns.github.io/post/yui/</link>
+      <pubDate>Mon, 22 Jun 2020 21:34:08 +0800</pubDate>
+      
+      <guid>https://flyingns.github.io/post/yui/</guid>
+      <description>&lt;p&gt;yui&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
