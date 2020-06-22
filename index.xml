@@ -6,31 +6,9 @@
     <description>Recent content on 來來往往</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2020 19:10:18 +0800</lastBuildDate>
     
 	<atom:link href="https://flyingns.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Testpub</title>
-      <link>https://flyingns.github.io/post/testpub/</link>
-      <pubDate>Mon, 22 Jun 2020 19:10:18 +0800</pubDate>
-      
-      <guid>https://flyingns.github.io/post/testpub/</guid>
-      <description>&lt;p&gt;public test.&lt;/p&gt;
-&lt;p&gt;test&lt;/p&gt;
-&lt;p&gt;deploying updates to github&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://flyingns.github.io/post/my-first-post/</link>
-      <pubDate>Mon, 22 Jun 2020 18:41:00 +0800</pubDate>
-      
-      <guid>https://flyingns.github.io/post/my-first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
